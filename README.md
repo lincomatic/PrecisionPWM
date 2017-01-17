@@ -12,4 +12,5 @@ Open a serial terminal at 115200 baud to set the PWM frequency
 ## Configuration ##
 
 PWM_PIN = pin to output PWM (default = 13) DOES NOT HAVE TO BE A PWM-CAPABLE PIN
+
 duty_cycle = expressed as 1/duty (default = 2 -> 1/2 = 50%)
